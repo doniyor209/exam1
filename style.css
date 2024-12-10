@@ -1,0 +1,165 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.container {
+    max-width: 1220px;
+    margin: 0 auto;
+}
+
+.a {
+    display: flex;
+    justify-content: space-evenly;
+    margin-top: 30px;
+    align-items: center;
+}
+
+.btn {
+    background-color: white;
+    border: 2px solid #DE2E54;
+    border-radius: 7px;
+    color: #DE2E54;
+    width: 180px;
+    height: 40px;
+    font-weight: 600;
+
+}
+
+.btn:hover {
+    background-color: #DE2E54;
+    color: white;
+    font-weight: 700;
+}
+
+.loh {
+    display: flex;
+    background-image: url(./img/image\ 4\ \(1\).png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    margin-top: 50px;
+    gap: 200px;
+    align-items: center;
+    justify-content: space-evenly;
+}
+.b{
+    font-weight: 700;
+    font-size: 20px;
+}
+
+.b:hover{
+    color: #DE2E54 ;
+}
+
+
+
+
+h1 {
+    width: 600px;
+
+    color: white;
+    font-weight: 600;
+
+
+}
+
+h3:hover {
+    color: #DE2E54;
+}
+
+.loh .btn {
+    margin-top: 70px;
+}
+
+.loshara {
+    display: flex;
+    gap: 40px;
+    justify-content: center;
+}
+.ghost{
+    text-align: center;
+    font-size: 30px;
+}
+
+.info p {
+    color: gray;
+    margin-top: 30px;
+}
+
+.info h2 {
+    margin-top: 30px;
+}
+
+.sad {
+    display: flex;
+    gap: 40px;
+    margin-top: 90px;
+    justify-content: center;
+}
+
+.info p {
+    color: gray;
+    margin-top: 30px;
+}
+
+.info h2 {
+    margin-top: 30px;
+}
+
+
+
+
+.poor{
+    padding: 50px;
+    background: #0EB4C1;
+
+}
+
+
+.google-map{
+    display: flex;
+    align-items: center;
+    justify-content:center ;
+    gap: 100px;
+}
+h4{
+  font-size: 40px;  
+  text-align: center;
+  margin-bottom: 15px;
+}
+input{
+    width: 400px;
+    height: 40px;
+    margin-bottom:15px ;
+   
+   
+}
+.kotta{
+    background-color: white;
+    padding: 20px;
+    border-radius: 30px;
+}
+.btn3{
+    background-color: #38CC8B;
+    width: 400px;
+    height: 30px;
+   
+}
+ 
+.child{
+    background-color: #222222;
+    display: flex;
+    justify-content: space-between;
+   padding: 10px;
+   padding-right: 30px ;
+   padding-left: 30px ;
+}
+.children{
+    display: flex;
+    gap: 50px;
+    align-items: center;
+}
+.children o{
+    color: white;
+}
